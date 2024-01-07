@@ -1,0 +1,15 @@
+#main{
+    position: relative;
+    width: 100%;
+}
+
+#source{
+    width: 1200px;
+    margin: auto;
+}
+
+.container{
+    width: 100%;
+    background-color: pink;
+    height: 1000px;
+}
